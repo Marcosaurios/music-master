@@ -1,3 +1,3 @@
-First README version. 
-
-First REACT project. App that consumes Spotify API to search for songs and artists.
+## Course project
+ <hr/>
+First app using React. It connects to Spotify API for searching songs and artists.
